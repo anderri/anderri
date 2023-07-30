@@ -1,10 +1,10 @@
 <img src="img/anderri.jpeg" alt="Anderson" height="100px"/>
 
-🛠️ Helping Teams Engineer Quality: 🗣️ Product Owner for Quality: Head of Quality Engineering and Observability
+🛠️ Deploying into the Cloud: 🗣️ AWS Cloud DevOps Engineer 
 
 | [Contact me](mailto:anderri@hotmail.com) | [Follow me on LinkedIn](https://www.linkedin.com/in/anderri){:target="\_blank"} | [Portfolio](https://github.com/anderri?tab=repositories){:target="\_blank"}
 
-### Personal Statement
+### Career Summary
 
 I have a background in Delivery Services and Support with a passion for Cloud, DevOps, AWS, and the high-energy innovation culture. With over 20 years of experience in the IT industry, I have gained expertise in software implementation, system and operations maintenance, delivery services, IT support and most recently delivery projects in the cloud environment. My professional journey has encompassed sectors including Banks, Telecommunications, Insurance, and Financial Services, in both Enterprise and Start-up environments.
 
@@ -19,7 +19,7 @@ Having established a solid foundation, I am excited to use my skills and experie
 
 • 🛠️ Exploring DevSecOps tools to enable self-service for quality capabilities.
 
-• 👁️ Strengthening Observability practices to enable faster and secure engineering
+• 👁️ Strengthening Observability practices to enable faster and more secure engineering
 
 [Work Experience](/reference/WORKEXPERIENCE.MD)
 
@@ -33,4 +33,4 @@ Having established a solid foundation, I am excited to use my skills and experie
 
 ### Interest
 
-In addition to my extensive experience, I have developed a keen interest in emerging fields and technologies that are shaping the future of engineering. I have actively pursued knowledge and expertise in areas such as Artificial Intelligence (AI), Prompt Engineering, Observability, and Community engagement. These areas have become integral components of my professional growth, as I recognize their potential to revolutionize the way we approach quality engineering and product development. By staying ahead of the latest advancements and actively engaging with communities of like-minded professionals, I continually strive to expand my horizons and contribute to the forefront of cutting-edge engineering practices.
+In addition to my extensive experience, I have developed a keen interest in emerging fields and technologies that are shaping the future of engineering. I have actively pursued knowledge and expertise in areas such as Generative AI, Prompt Engineering, Crypto and Mining, and Community engagement. By staying ahead of the latest advancements and actively engaging with communities of like-minded professionals, I continually strive to expand my horizons and contribute to the forefront of cutting-edge engineering practices.
