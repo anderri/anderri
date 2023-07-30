@@ -6,9 +6,10 @@
 
 ### Personal Statement
 
-I am an accomplished Product Owner for Quality with a profound dedication to embedding engineering excellence into all aspects of my work. I firmly believe that quality should be upheld as a collective responsibility, and I derive great satisfaction from collaborating with teams to foster a culture rooted in exceptional standards. Moreover, I am a staunch advocate for data-driven decision-making, recognizing it as the sole influencer essential for the triumph of any product.
+I have a background in Delivery Services and Support with a passion for Cloud, DevOps, AWS, and the high-energy innovation culture. With over 20 years of experience in the IT industry, I have gained expertise in software implementation, system and operations maintenance, delivery services, IT support and most recently delivery projects in the cloud environment. My professional journey has encompassed sectors including Banks, Telecommunications, Insurance, and Financial Services, in both Enterprise and Start-up environments.
 
-With over 15 years of invaluable experience, I have built my expertise in developing engineering capabilities across a diverse range of industries. My professional journey has encompassed sectors including Telecommunications, Airlines, Media, Loyalty, Insurance, Financial Services, and AgriTech, in both Enterprise and Start-up environments. This extensive background has allowed me to gain comprehensive insights into the unique challenges and intricacies associated with each industry, equipping me with a versatile skill set that adapts to various organizational landscapes.
+Having established a solid foundation, I am excited to use my skills and experience to promote innovation, scalability, and efficiency in cloud-based environments. I bring reliability and enthusiasm to any team, and I love taking on new challenges. I am committed to going the extra mile for my clients, always ensuring their satisfaction by understanding their needs and delivering projects on time and within scope.
+
 
 ### Achievements
 
