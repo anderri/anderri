@@ -1,4 +1,4 @@
-## Learning
+<!-- ## Learning
 
 The duration of each topic may vary based on the complexity and depth of the topic. It is recommended to do hands-on exercises, practice projects, and real-world scenarios to reinforce the learning and ensure practical proficiency.
 
@@ -38,4 +38,4 @@ I found some of this to be great topics to learn in my career, but there are man
 - [Swagger](https://swagger.io/docs/){:target="\_blank"}
 - [PACT](https://docs.pact.io/university){:target="\_blank"}
 
-[Back home](/)
+[Back home](/) -->

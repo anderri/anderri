@@ -1,4 +1,4 @@
-
+<!-- 
 ## Work experience 
 
 - Head of Quality Engineering and Observability, [DevOps1](https://www.devops1.com.au/){:target="_blank"} (05/2023 - Current)
@@ -14,4 +14,4 @@
 
 📝 Download my CV/Resume [here](https://1drv.ms/w/s!AoLNJ5agumbCjGjxw-r0Pl6zPWAA?e=td87jT){:target="_blank"}
 
-[Back home](/)
+[Back home](/) -->

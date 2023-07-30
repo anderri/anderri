@@ -1,4 +1,4 @@
-## Publications
+<!-- ## Publications
 
 | [Medium](https://ale-sanchez-g.medium.com/about) | [LinkedIn](https://www.linkedin.com/in/alejandrosanchezgiraldo/recent-activity/posts/) | 
 
@@ -20,4 +20,4 @@
 - [Building quality engineering](https://www.canva.com/design/DAFARRPucLQ/e3Ijx_kdkT3e5SmBOdSmIA/view?utm_content=DAFARRPucLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink){:target="_blank"}
 - [Hamlet on my quality strategy](https://www.canva.com/design/DAFFxn5SQTU/GksU-AwpoDj-NN4020GVqA/view?utm_content=DAFFxn5SQTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink){:target="_blank"}
 
-[Back home](/)
+[Back home](/) -->
