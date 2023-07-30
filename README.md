@@ -1,4 +1,4 @@
-<img src="img/alejandro.jpeg" alt="alejandro" height="100px"/>
+# <img src="img/alejandro.jpeg" alt="alejandro" height="100px"/>
 
 🛠️ Helping Teams Engineer Quality: 🗣️ Product Owner for Quality: Head of Quality Engineering and Observability
 
